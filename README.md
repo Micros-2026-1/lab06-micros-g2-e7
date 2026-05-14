@@ -250,4 +250,6 @@ plt.show()
 
 ## Diagramas
 
+☼ [Diagrama protocolo UART](diagrama/Protocol_UART.jpg)
+
 ## Evidencias de implementación
